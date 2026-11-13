@@ -2,12 +2,12 @@
 
 Python calculator for pure-component real-gas PVT properties, enthalpy, entropy and fugacity using van der Waals (vdW), Redlich-Kwong (RK), Soave-Redlich-Kwong (SRK) and Peng-Robinson (PR) equations of state.
 
-This repository draft contains the supplied calculator and project report. The calculator includes a database of 29 species, phase-root selection, saturation-pressure calculations, latent heat and optional plots.
+This repository contains the supplied calculator. The project report is awaiting upload. The calculator includes a database of 29 species, phase-root selection, saturation-pressure calculations, latent heat and optional plots.
 
 ## Files
 
 - `cubic_eos.py`: supplied calculator, unchanged.
-- `CHL2002_Project_Report.pdf`: supplied project report with the author line corrected to Geetansh Jain at the author's request.
+- Project report: awaiting upload; not included in this repository yet.
 - `requirements.txt`: required numerical libraries and the plotting library.
 
 ## Run
